@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="41692" started-at="2018-10-14T07:09:49Z" finished-at="2018-10-14T07:10:31Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="41692" started-at="2018-10-14T07:09:49Z" finished-at="2018-10-14T07:10:31Z">
+      <class name="pfPack.tests.LoginTest">
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:pfPack.tests.LoginTest@10694f1]" name="testLogin" duration-ms="40344" started-at="2018-10-14T07:09:49Z" finished-at="2018-10-14T07:10:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testClosure()[pri:0, instance:pfPack.tests.LoginTest@10694f1]" name="testClosure" is-config="true" duration-ms="1306" started-at="2018-10-14T07:10:30Z" finished-at="2018-10-14T07:10:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClosure -->
+      </class> <!-- pfPack.tests.LoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

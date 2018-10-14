@@ -9,7 +9,7 @@ import pfPack.pages.LaunchPage;
 import pfPack.tests.base.BaseTest;
 import pfPack.util.Constants;
 
-//This is a LoginTest
+//This is a LoginTest updated for polling
 public class LoginTest extends BaseTest {
 	
 	//This is a testLogin method
